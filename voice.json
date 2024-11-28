@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Aku Mau Tanya",
+        "audio": "akumautanya.mp3",
+        "path": "voice/akumautanya"
+    },
+    {
+        "name": "Aku Sangat Bersyukur",
+        "audio": "akusangatbersyukur.mp3",
+        "path": "voice/akusangatbersyukur"
+    },
+    {
+        "name": "Aku Gagal Banget",
+        "audio": "akugagal.mp3",
+        "path": "voice/akugagal"
+    },
+    {
+        "name": "Aku Terlalu Mengharapkanmu",
+        "audio": "akuterlalu.mp3",
+        "path": "voice/akuterlalu"
+    },
+    {
+        "name": "Aku Orangnya Pelupa",
+        "audio": "akuorangnya.mp3",
+        "path": "voice/akuorangnya"
+    },
+    {
+        "name": "Kok Kamu Cakep Banget",
+        "audio": "kokkamu.mp3",
+        "path": "voice/kokkamucakep"
+    },
+    {
+        "name": "Pergi Membeli Sepatu",
+        "audio": "sepatu.mp3",
+        "path": "voice/pergimembelisepatu"
+    },
+    {
+        "name": "Cantik Aku Cuma Mau Bilang",
+        "audio": "maubilang.mp3",
+        "path": "voice/cantikakumaubilang"
+    },
+    {
+        "name": "Aku Sayang Banget Sama",
+        "audio": "sygbanget.mp3",
+        "path": "voice/akusayangbanget"
+    },
+    {
+        "name": "Teruntuk Kamu Yang Saat Ini",
+        "audio": "teruntukkamu.mp3",
+        "path": "voice/teruntukkamu"
+    },
+    {
+        "name": "Lagi Bermain Game",
+        "audio": "sukakamu.mp3",
+        "path": "voice/sukakamu"
+    }
+]
